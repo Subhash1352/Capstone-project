@@ -1,0 +1,12 @@
+Sensors
+(BMP180, MAX30102, GSR)
+        ↓
+      ESP32
+        ↓
+      WiFi
+        ↓
+    MQTT Protocol
+        ↓
+    Blynk IoT Cloud
+        ↓
+ Doctor / Caregiver Mobile App
