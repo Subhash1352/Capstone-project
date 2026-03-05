@@ -54,5 +54,4 @@ If any health parameter exceeds predefined threshold values, the system automati
 
 ---
 
-## Author
-Alliance University – Capstone Project
+
