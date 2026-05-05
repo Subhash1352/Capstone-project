@@ -1,7 +1,0 @@
-ESP32 Board Package
-Adafruit BMP085 Library
-SparkFun MAX30105 Library
-heartRate.h Library
-Blynk IoT Library
-Wire Library
-Arduino IDE
